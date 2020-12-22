@@ -1,21 +1,10 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Resume</title>
-    
-    <img src="14135085656102.jpg"></img>
-    <h3>My Favorite</h3>
-    <hr/>
-    
 </head>
 <body>
     <div style="font-weight:bold;font-size:20px">申請人</div>
     <div>莊子玄</div>
     <hr/>
     <div style="font-weight:bold;font-size:20px">個人簡介</div>
-    <div>.....</div>
+    <div>我叫莊子玄，今年八月剛畢業於國立成功大學生物醫學工程研究所，目前在新北的一家醫療器材公司上班，大學背景為生物科技，</div>
     <hr/>
     <div style="font-weight:bold;font-size:20px">為什麼想成為工程師</div>
     <div>.....</div>
